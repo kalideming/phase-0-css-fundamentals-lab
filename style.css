@@ -3,3 +3,28 @@ body {
   height: 100%;
   margin: 0;
 }
+head {
+  align-items: center;
+}
+img {
+  align-items: center;
+}
+a {
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: aquamarine;
+}
+figcaption {
+  font-size: small;
+}
+featured-property p {
+  width: 800px;
+  align-items: center;
+}
+details div {
+  float: left;
+  align-items: center;
+  background-color: bisque;
+  width: 25%;
+}
